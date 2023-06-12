@@ -2,7 +2,7 @@
 # Google Search App
 
 A simple web application that allows users to perform custom searches on the web using the Google Custom Search API. 
-Built with React and tailwindCSS and vite as a built tool.
+Built with React and tailwindCSS and vite as a build tool.
 
 ## Features
 
